@@ -1,0 +1,26 @@
+
+body {
+    background-color: rgb(0, 8, 52);
+    margin: 0
+}
+#inicial {
+    color:rgba(241, 241, 241, 0.883);
+    padding: 1px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    
+}
+#custom {
+    color:white;
+    text-align: center
+}
+
+#meio {
+    color: white;
+    text-align: left;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 90vh
+    
+}
